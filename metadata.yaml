@@ -1,0 +1,35 @@
+_repo: The-Gray-Mask_33230
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: De Maris, Walter
+    alias: Maris, Walter de
+    gutenberg_agent_id: '7198'
+    url: http://www.gutenberg.org/2009/agents/7198
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Camp, Wadsworth
+    alias: Camp, Charles Wadsworth
+    birthdate: 1879
+    deathdate: 1936
+    gutenberg_agent_id: '3731'
+    url: http://www.gutenberg.org/2009/agents/3731
+description: ''
+gutenberg_issued: '2010-07-22'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '33230'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Adventure stories'
+- !lcsh 'Detective and mystery stories'
+- !lcsh 'Detectives -- Fiction'
+- !lcc 'PS'
+title: The Gray Mask
+url: http://www.gutenberg.org/ebooks/33230
